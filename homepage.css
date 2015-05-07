@@ -1,0 +1,23 @@
+.logo a img {
+	height:50%;
+	margin:10px 0 10px 20px;
+}
+.logo{
+	top:35%;
+	position:absolute;
+	left:33%;
+	height:33%;
+	width:33%;
+	text-align: center;
+}
+.logo > input{
+	border:1px solid gray;
+	height:10%;
+	margin:5px 15px;
+}
+#search{
+	width:100%;
+}
+.buttons{
+
+}
