@@ -44,3 +44,24 @@ a:hover{
 	height:30px;
 	width:30px;
 }
+
+.bottom{
+	height:8%;
+	width:100%;
+	background-color:hsl(0,0%,95%);
+	position: absolute;
+	top:92%;
+}
+.bottom a{
+	font-size:13px;
+	height:40px;
+	line-height: 40px;
+	margin:0;
+	padding-left:27px;
+
+}
+.right{
+	display:inline;
+	float:right;
+
+}
